@@ -6,6 +6,6 @@
   </a>
 </p>
 
-<h2 align="center">
+<h3 align="center">
 ⚡️Lightning-fast linter for <code>.env</code> files. Written in Rust 🦀
-</h2>
+</h3>
